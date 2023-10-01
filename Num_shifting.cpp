@@ -235,7 +235,7 @@ void instruction()
 
 int main()
 {
-    cout<<"Testingggg"<<endl;
+    cout<<"Testing"<<endl;
     cout<<"\nEnter Your Name : ";
     cin.getline(name,20);
     cout<<"\nWelcome : "<<name<<endl<<endl;
